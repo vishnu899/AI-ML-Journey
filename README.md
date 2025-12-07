@@ -1,8 +1,11 @@
-# AI-ML-Journey
+# 🚀 AI / ML Journey
 
-#Week 1:
+## Week 1
 
-1.Day 1
-    Python Basics`    
-    Mini calculator using user preference
-    Feature Gaps between Perplexity and ChatGPT
+### 📌 Day 1  
+**Topics Covered:**  
+- Python Basics  
+- Mini calculator (built using user input preferences)  
+- Analysis: Feature gaps between **Perplexity** and **ChatGPT**
+
+✨ _Kicking off strong!_
