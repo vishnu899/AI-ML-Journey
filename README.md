@@ -3,6 +3,6 @@
 #Week 1:
 
 1.Day 1
-    Python Basics
+    Python Basics\n
     Mini calculator using user preference
     Feature Gaps between Perplexity and ChatGPT
