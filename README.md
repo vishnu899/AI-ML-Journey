@@ -19,4 +19,13 @@
 - ML Concept: Features vs Labels
 - PE Concept: Context Framing and Output Control
 
+### Day 3
+**Topics Covered:**
+- List
+- Dictionaries
+- Task Manager v1
+- Contact Book v2
+- Model in ml
+- Chain of Thought(CoT) Prompting
+
 ✨ _Kicking off strong!_
