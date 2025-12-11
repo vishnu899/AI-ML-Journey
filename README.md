@@ -25,7 +25,16 @@
 - Dictionaries
 - Task Manager v1
 - Contact Book v2
-- Model in ml
+- Model in ML
 - Chain of Thought(CoT) Prompting
+
+### Day 4
+**Topics Covered**
+- File Writing/Reading
+- Data Parsing
+- Log Reader/Data Parser
+- Expense Analyser
+- `Training` vs `Testing`
+- Self Correction Prompting
 
 ✨ _Kicking off strong!_
