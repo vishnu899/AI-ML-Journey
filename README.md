@@ -37,4 +37,10 @@
 - `Training` vs `Testing`
 - Self Correction Prompting
 
+### Day 5
+- Student Report Generator (Pipeline Style)
+- User Behaviour Analyzer (Pre–EDA thinking)
+- `Preprocessing` in ML
+- Iterative refinement prompting
+
 ✨ _Kicking off strong!_
